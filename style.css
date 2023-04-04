@@ -1,0 +1,56 @@
+h1{
+  color: black
+}
+body
+{
+  background-color: orange
+}
+h4{
+  color: black
+
+}
+p{
+  color: blanchedalmond
+}
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: darkred;
+  padding: 14px 16px;
+  background-color: darkred;
+  
+  font: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+dropdown-content .header {
+  background: black;
+  padding: 16px;
+  color: white;
+  display: block;
+}
+
